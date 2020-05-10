@@ -1,0 +1,28 @@
+.primarytwocard {
+    color: tomato;
+}
+
+.primarythreecard {
+    color: darkblue;
+}
+
+.primaryfourcard {
+    color: darkolivegreen;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    padding: 0%;
+    display: grid;
+}
+
+.socialmediacategory {
+    display: grid;
+}
+
+.blogauthor {
+    display: flex;
+}

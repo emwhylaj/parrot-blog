@@ -1,0 +1,20 @@
+img {
+    width: 90%;
+}
+
+.blogauthor {
+    display: grid;
+}
+
+.socialmediacategory {
+    display: grid;
+}
+
+.avatar {
+    width: 40%;
+    ;
+}
+
+.mediacategory {
+    display: grid;
+}

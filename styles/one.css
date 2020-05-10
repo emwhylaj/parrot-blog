@@ -1,0 +1,37 @@
+h3 {
+    color: blue;
+}
+
+ul {
+    color: crimson;
+    list-style: none;
+    display: flex;
+}
+
+p {
+    color: lawngreen;
+}
+
+footer {
+    color: darkviolet;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+.primaryonecard {
+    color: brown;
+}
+
+button {
+    color: gold;
+}
+
+button:hover {
+    color: magenta;
+}
+
+h1 {
+    text-align: center;
+}
